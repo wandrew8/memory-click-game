@@ -1,0 +1,10 @@
+h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 6rem;
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 3rem;
+    margin-bottom: 0rem;
+}

@@ -1,0 +1,44 @@
+.background-header {
+    background: url("https://i.gifer.com/iCg.gif")no-repeat center center;
+    background-size: cover;
+    height: 5rem;
+}
+ ul {
+    display: block;
+    list-style-type: disc;
+    width: 100vw;
+    
+ }
+.score-holder {
+    height: 4.5rem;
+    background-color: white;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+    margin: 0 auto;
+    white-space: nowrap;
+    display: block;
+}
+.navbar {
+    z-index: 1;
+    height: 3rem;
+    
+}
+li {
+    display: inline-block;
+    padding: 0 2rem;
+    width: 33.3%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 2rem;
+    font-family: 'Kaushan Script', cursive;
+    text-decoration: none;
+
+
+}
+
